@@ -2,7 +2,7 @@
 Author: Yuri Hwang
 
 ## What and Why?
-NYU scheduler is a software application that will allow NYU students to navigate through the stressful yet important process of class registration.
+NYU course coordinator is a software application that will allow NYU students to navigate through the stressful yet important process of class registration by providing scheduling tool along with the information needed for the decision.
 
 ## For Whom?
 Any person who is registered as a student at NYU who wishes to register for courses through Albert may use the system.
