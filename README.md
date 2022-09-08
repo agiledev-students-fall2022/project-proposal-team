@@ -1,4 +1,6 @@
 # NYU Course Coordinator
+Author: Yuri Hwang
+
 ## What and Why?
 NYU scheduler is a software application that will allow NYU students to navigate through the stressful yet important process of class registration.
 
