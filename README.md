@@ -1,5 +1,5 @@
 # NYU Course Coordinator
-Author: Yuri Hwang
+by Yuri Hwang
 
 ## What and Why?
 NYU course coordinator is a software application that will allow NYU students to navigate through the stressful yet important process of class registration by providing scheduling tool along with the information needed for the decision.
